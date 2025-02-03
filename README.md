@@ -3,7 +3,7 @@
   
 About Me:
 
-I'm a passionate DevOps Engineer with over [X] years of experience in designing, implementing, and managing scalable, secure, and efficient cloud infrastructure. My expertise lies in leveraging AWS services to build robust solutions that drive business success.
+I'm a passionate DevOps Engineer in designing, implementing, and managing scalable, secure, and efficient cloud infrastructure. My expertise lies in leveraging AWS services to build robust solutions that drive business success.
 
 Skills:
 
