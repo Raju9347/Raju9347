@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boya Chinna Raju
-- DevOps Engineer | AWS
+🔧 DevOps Engineer | AWS
   
 About Me:
 
