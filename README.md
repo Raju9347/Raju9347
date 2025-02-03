@@ -7,12 +7,12 @@ I'm a passionate DevOps Engineer in designing, implementing, and managing scalab
 
 Skills:
 
-- Cloud Platforms: AWS (EC2, S3, RDS, Lambda, CloudFormation, etc.)
-- CI/CD Tools: Jenkins, GitLab CI, CircleCI
-- Configuration Management: Ansible, Terraform, Chef
-- Containerization: Docker, Kubernetes, ECS
-- Monitoring & Logging: Prometheus, Grafana, ELK Stack
-- Scripting Languages: Python, Bash, PowerShell
+- Cloud Platforms: AWS (EC2, EKS, ECS, ECR, IAM, CloudWatch, EFS, CloudTrial, ASG, KMS, S3, RDS, Lambda, CloudFormation, Secret Manager, ACM, Image Builder, DMS, VPC, Route53, etc.)
+- CI/CD Tools: Jenkins, GitHub Actions, Bamboo 
+- Configuration Management: Ansible, Terraform
+- Containerization: Docker, Kubernetes, EKS
+- Monitoring & Logging: Splunk, Dynatrace, ELK Stack
+- Scripting Languages: Python, Bash
 
 
 - Automate Repetitive Tasks:
