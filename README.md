@@ -7,12 +7,12 @@ I'm a passionate DevOps Engineer with over [X] years of experience in designing,
 
 Skills:
 
-Cloud Platforms: AWS (EC2, S3, RDS, Lambda, CloudFormation, etc.)
-CI/CD Tools: Jenkins, GitLab CI, CircleCI
-Configuration Management: Ansible, Terraform, Chef
-Containerization: Docker, Kubernetes, ECS
-Monitoring & Logging: Prometheus, Grafana, ELK Stack
-Scripting Languages: Python, Bash, PowerShell
+- Cloud Platforms: AWS (EC2, S3, RDS, Lambda, CloudFormation, etc.)
+- CI/CD Tools: Jenkins, GitLab CI, CircleCI
+- Configuration Management: Ansible, Terraform, Chef
+- Containerization: Docker, Kubernetes, ECS
+- Monitoring & Logging: Prometheus, Grafana, ELK Stack
+- Scripting Languages: Python, Bash, PowerShell
 
 
 <!---
